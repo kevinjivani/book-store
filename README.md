@@ -15,7 +15,7 @@ Make sure you have the following installed:
 1. Clone the Repository
 First, clone the repository to your local machine:
 ```
-git clone https://github.com/kevinjivani/book-store.git
+git clone https://github.com/kevinjivani/book-store-old.git
 ```
 ```
 cd book-store
