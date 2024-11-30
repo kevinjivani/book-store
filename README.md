@@ -70,15 +70,6 @@ Run all the test cases at once :
 ```
 npm test
 ```
-To publish the it:
-
-```
-npm login
-```
-
-```
-npm publish
-```
 
 
 ## License
